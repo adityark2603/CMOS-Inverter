@@ -7,6 +7,7 @@ Input = High (1) → NMOS conducts, PMOS is off → Output = Low (0)
 Input = Low (0) → PMOS conducts, NMOS is off → Output = High (1)
 
 In this project, the specifications I've used are:
+
 (i) 90 nm technology (gpdk90 library)
 (ii) Vdc = 1.2V
 
